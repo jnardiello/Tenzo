@@ -1,0 +1,18 @@
+title: Test
+url: test.com
+
+author:
+    name: Test
+    description: Description here
+    twitter: test
+    github: test
+    linkedin: test
+
+timezone: UTC
+markdown: redcarpet
+pygments: true
+
+permalink: /:title.html
+
+kramdown:
+    input: GFM
